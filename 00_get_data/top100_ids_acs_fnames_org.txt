@@ -1,0 +1,132 @@
+ID   LYSC_CHICK              Reviewed;         147 AA.
+AC   P00698; Q90884;
+DE   RecName: Full=Lysozyme C;
+OS   Gallus gallus (Chicken).
+ID   B2MG_HUMAN              Reviewed;         119 AA.
+AC   P61769; P01884; Q540F8; Q6IAT8; Q9UCK0; Q9UD48; Q9UDF4;
+DE   RecName: Full=Beta-2-microglobulin;
+OS   Homo sapiens (Human).
+ID   CAH2_HUMAN              Reviewed;         260 AA.
+AC   P00918; B2R7G8; Q6FI12; Q96ET9;
+DE   RecName: Full=Carbonic anhydrase 2;
+OS   Homo sapiens (Human).
+ID   ENLYS_BPT4              Reviewed;         164 AA.
+AC   P00720; Q38170; Q94N07;
+DE   RecName: Full=Endolysin {ECO:0000255|HAMAP-Rule:MF_04110};
+OS   Enterobacteria phage T4 (Bacteriophage T4).
+ID   CARP_CRYPA              Reviewed;         419 AA.
+AC   P11838;
+DE   RecName: Full=Endothiapepsin;
+OS   Cryphonectria parasitica (Chestnut blight fungus) (Endothia parasitica).
+ID   TRY1_BOVIN              Reviewed;         246 AA.
+AC   P00760; A6H6Y3;
+DE   RecName: Full=Cationic trypsin;
+OS   Bos taurus (Bovine).
+ID   CDK2_HUMAN              Reviewed;         298 AA.
+AC   P24941; A8K7C6; O75100;
+DE   RecName: Full=Cyclin-dependent kinase 2;
+OS   Homo sapiens (Human).
+ID   THRB_HUMAN              Reviewed;         622 AA.
+AC   P00734; B2R7F7; B4E1A7; Q4QZ40; Q53H04; Q53H06; Q69EZ7; Q7Z7P3; Q9UCA1;
+DE   RecName: Full=Prothrombin;
+OS   Homo sapiens (Human).
+ID   BACE1_HUMAN             Reviewed;         501 AA.
+AC   P56817; A0M8W7; B0YIU9; E9PE65; H7BXJ9; Q9BYB9; Q9BYC0; Q9BYC1; Q9UJT5;
+AC   Q9ULS1;
+DE   RecName: Full=Beta-secretase 1 {ECO:0000305};
+OS   Homo sapiens (Human).
+ID   DPOLB_HUMAN             Reviewed;         335 AA.
+AC   P06746; B2RC78; Q3KP48; Q6FI34;
+DE   RecName: Full=DNA polymerase beta;
+OS   Homo sapiens (Human).
+ID   HLAA_HUMAN              Reviewed;         365 AA.
+AC   P04439; B1PKZ3; O02939; O02954; O02955; O02963; O19509; O19546; O19598;
+AC   O19605; O19606; O19619; O19647; O19673; O19687; O19695; O19756; O19794;
+AC   O19795; O43906; O43907; O46874; O62921; O62924; O77937; O77938; O77964;
+AC   O78073; O78171; O98009; O98010; O98011; O98137; P01891; P01892; P05534;
+AC   P06338; P10313; P10314; P10315; P10316; P13746; P16188; P16189; P16190;
+AC   P18462; P30443; P30444; P30445; P30446; P30447; P30448; P30449; P30450;
+AC   P30451; P30452; P30453; P30454; P30455; P30456; P30457; P30458; P30459;
+AC   P30512; P30514; P79505; P79562; P79563; Q09160; Q29680; Q29747; Q29835;
+AC   Q29837; Q29838; Q29899; Q29908; Q29909; Q29910; Q30208; Q31623; Q5S3G1;
+AC   Q65A82; Q8MHM1; Q8MHN9; Q95352; Q95355; Q95362; Q95377; Q95380; Q95IZ5;
+AC   Q9BCN0; Q9BD15; Q9BD19; Q9GJE6; Q9GJE7; Q9GJE8; Q9MW42; Q9MY89; Q9MYA3;
+AC   Q9MYA5; Q9MYC4; Q9MYE6; Q9MYE9; Q9MYG4; Q9MYG5; Q9MYI5; Q9TP25; Q9TPQ3;
+AC   Q9TPR8; Q9TPX8; Q9TPX9; Q9TPY0; Q9TQ24; Q9TQE8; Q9TQE9; Q9TQF1; Q9TQF5;
+AC   Q9TQF8; Q9TQF9; Q9TQG0; Q9TQG5; Q9TQG7; Q9TQH5; Q9TQI3; Q9TQK5; Q9TQM6;
+AC   Q9TQN5; Q9TQP5; Q9TQP6; Q9TQP7; Q9UIN1; Q9UIN2; Q9UIP7; Q9UQU3; Q9UQU6;
+AC   Q9UQU7;
+DE   RecName: Full=HLA class I histocompatibility antigen, A alpha chain;
+OS   Homo sapiens (Human).
+ID   BRD4_HUMAN              Reviewed;        1362 AA.
+AC   O60885; O60433; Q4G0X8; Q86YS8; Q96PD3;
+DE   RecName: Full=Bromodomain-containing protein 4;
+OS   Homo sapiens (Human).
+ID   GFP_AEQVI               Reviewed;         238 AA.
+AC   P42212; Q17104; Q27903; Q93125;
+DE   RecName: Full=Green fluorescent protein;
+OS   Aequorea victoria (Jellyfish).
+ID   TTHY_HUMAN              Reviewed;         147 AA.
+AC   P02766; Q549C7; Q6IB96; Q9UBZ6; Q9UCM9;
+DE   RecName: Full=Transthyretin;
+OS   Homo sapiens (Human).
+ID   RS6_THET8               Reviewed;         101 AA.
+AC   Q5SLP8;
+DE   RecName: Full=30S ribosomal protein S6;
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+ID   RS7_THET8               Reviewed;         156 AA.
+AC   P17291; Q5SHN4;
+DE   RecName: Full=30S ribosomal protein S7;
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+ID   DCR1A_HUMAN             Reviewed;        1040 AA.
+AC   Q6PJP8; D3DRC1; Q14701; Q6P5Y3; Q6PKL4;
+DE   RecName: Full=DNA cross-link repair 1A protein;
+OS   Homo sapiens (Human).
+ID   PSA5_YEAST              Reviewed;         260 AA.
+AC   P32379; D6VV33;
+DE   RecName: Full=Proteasome subunit alpha type-5;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+ID   RS15_THET8              Reviewed;          89 AA.
+AC   Q5SJ76;
+DE   RecName: Full=30S ribosomal protein S15 {ECO:0000255|HAMAP-Rule:MF_01343};
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+ID   BRD1_HUMAN              Reviewed;        1058 AA.
+AC   O95696; A6ZJA4;
+DE   RecName: Full=Bromodomain-containing protein 1;
+OS   Homo sapiens (Human).
+ID   PSA7_YEAST              Reviewed;         288 AA.
+AC   P21242; D6W357;
+DE   RecName: Full=Probable proteasome subunit alpha type-7;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+ID   PSA1_YEAST              Reviewed;         252 AA.
+AC   P21243; D6VUC6; P15708;
+DE   RecName: Full=Proteasome subunit alpha type-1;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+ID   PSA3_YEAST              Reviewed;         258 AA.
+AC   P23638; D6VUR7;
+DE   RecName: Full=Proteasome subunit alpha type-3;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+ID   PSA2_YEAST              Reviewed;         250 AA.
+AC   P23639; D6W0J3;
+DE   RecName: Full=Proteasome subunit alpha type-2;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+ID   PSA6_YEAST              Reviewed;         234 AA.
+AC   P40302; D6W0E1;
+DE   RecName: Full=Proteasome subunit alpha type-6;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+ID   PSA4_YEAST              Reviewed;         254 AA.
+AC   P40303; D6W229;
+DE   RecName: Full=Proteasome subunit alpha type-4;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+ID   MYG_PHYMC               Reviewed;         154 AA.
+AC   P02185; Q0KIY8;
+DE   RecName: Full=Myoglobin;
+OS   Physeter macrocephalus (Sperm whale) (Physeter catodon).
+ID   RS2_THET8               Reviewed;         256 AA.
+AC   P80371; Q5SJZ1; Q9ACK1;
+DE   RecName: Full=30S ribosomal protein S2;
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
+ID   RS20_THET8              Reviewed;         106 AA.
+AC   P80380; Q5SIH2; Q9F2A9;
+DE   RecName: Full=30S ribosomal protein S20;
+OS   Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579).
